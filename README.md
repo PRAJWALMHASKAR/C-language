@@ -1,2 +1,1 @@
 # c-language
-factorial
